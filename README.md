@@ -1,2 +1,2 @@
 # End-to-end-local-data-stack
-This project showcases the build-up of a single node data system inside a Python environment. The pipeline architecture includes data ingestion from public API, storage and querying using PostreSLQ and DuckDB, analytics + ML. Data flows from external sources to a relational warehouse to power a downstream Machine Learning app.  
+End-to-end Data Engineering stack on a local machine. From source systems to Machine Learning applications, this architecture shows how to transform raw data into valuable assets for a business. Data is consumed through public APIs and the pipeline transformation runs on a free open-source Python environment. 
